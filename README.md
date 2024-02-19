@@ -6,6 +6,10 @@
 💡 "혼자서는 빨리 갈 수 있지만, 함께라면 더 멀리 갈 수 있다."
 ```
 
+## 시연 영상
+
+https://github.com/Manwol770/WebRTC_Porject/assets/139304010/18feaa4d-bca4-4adf-858e-5b0f0ff827fa
+
 <br>
 
 **프로젝트에 대한 자세한 정보는 [🔗여기](https://www.notion.so/ArchiVIEW-f80411bf395f423a83470e3752959183)**
@@ -146,8 +150,3 @@ BACK-END
                └─ssl
 
 ```
-
-## 시연 영상
-
-https://github.com/Manwol770/WebRTC_Porject/assets/139304010/18feaa4d-bca4-4adf-858e-5b0f0ff827fa
-
